@@ -8,9 +8,9 @@ Simply make a pull request.
 In [Wrapper](https://github.com/GoAnimate-Wrapper/GoAnimate-Wrapper), Set the contents of `config.json` to:
 ```
 {
-        "SWF_URL": "https://wrapper-inline.github.io/GoAnimate-Assets/animation/414827163ad4eb60",
-        "STORE_URL": "https://wrapper-inline.github.io/GoAnimate-Assets/store/3a981f5cb2739137",
-        "CLIENT_URL": "https://wrapper-inline.github.io/GoAnimate-Assets/static/ad44370a650793d9"
+        "SWF_URL": "https://wrapper-inline.github.io/assets/animation/414827163ad4eb60",
+        "STORE_URL": "https://wrapper-inline.github.io/assets/store/3a981f5cb2739137",
+        "CLIENT_URL": "https://wrapper-inline.github.io/assets/static/ad44370a650793d9"
 }
 ```
 
